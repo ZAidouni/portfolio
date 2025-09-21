@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Code editor ",
+    "description": "This project is an online code editor designed to learn and experiment with HTML, CSS, and JavaScript in a practical environment. It allows users to create web pages directly from their browser, with no installation required. The editor offers advanced features such as automatic saving, jQuery support, auto-closing of tags and brackets, and a live preview of changes. This project makes frontend learning easier and speeds up the web prototyping process.",
+    "github_repo": "https://github.com/ZAidouni/online-code-editor",
+    "tags": [
+      "JAVASCRIPT",
+      "HTML",
+      "CSS",
+      "JSON",
+      "mongodb",
+      "BOOTSTRAP",
+      "REACTJS",
+      "JEST"
+    ],
+    "pictures": [
+      "/projects/project9/pic2.png",
+      "/projects/project9/pic1.png"
+    ]
+  },
+  {
+    "title": "Uno",
+    "description": "I created an Uno game using JavaScript. The game simulates the classic Uno card gameplay, allowing users to play against AI or other players in a web environment. It features interactive gameplay, real-time card handling, and a dynamic interface, providing an engaging experience while demonstrating practical skills in frontend development and JavaScript programming.",
+    "github_repo": "https://github.com/ZAidouni/Uno",
+    "tags": [
+      "JAVASCRIPT",
+      "VUEJS",
+      "PUG",
+      "CSS",
+      "HTML"
+    ],
+    "pictures": [
+      "/projects/project1/pic2.png",
+      "/projects/project1/pic1.png"
+    ]
+  },
+  {
+    "title": "up-cadeaux",
+    "description": "I developed Up-Cadeaux, an e-commerce platform for my previous company using Magento and PHP Symfony, designed to sell digital gift cards. The platform enables users to browse, purchase, and send gift cards instantly, offering a seamless and secure online shopping experience. Features include digital card management, automated delivery, and a user-friendly interface, highlighting my skills in backend and frontend development, as well as e-commerce solutions.",
+    "github_repo": "",
+    "project_url": "https://www.up-cadeaux.com/",
+    "tags": [
+      "Magento",
+      "PHP",
+      "SYMFONY",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JQUERY",
+      "XML",
+      "MJML"
+    ],
+    "pictures": [
+      "/projects/project8/pic2.png",
+      "/projects/project8/pic1.png"
+    ]
+  }
+]

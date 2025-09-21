@@ -1,0 +1,23 @@
+[
+  {
+    "from": "07/2020",
+    "to": "12/2020",
+    "title": "Full-Stack Web Developer (Internship)",
+    "company": "IFTIKHAR AGGLOS",
+    "description": "Provided freelance services for multiple clients, including Python scripting, developing Django REST APIs, and designing websites and graphics. Collaborated as a Graphic and Website Designer for JACOLINK in the UAE, delivering high-quality solutions tailored to client needs."
+  },
+  {
+    "from": "2022",
+    "to": "2024",
+    "title": "Full-Stack Web Developer  (Apprenticeship)",
+    "company": "UGGY",
+    "description": "Designed and developed custom Magento 2 themes using HTML5, CSS3 (Sass), JavaScript (ES6) and PHP 8 to deliver responsive, high-performance storefronts. Built and integrated bespoke back-office modules to automate business workflows and enhance admin usability. Created and automated marketing and transactional email templates using MJML and Magento email system to ensure responsive, cross-client compatibility. Contributed to multiple concurrent projects, leveraging different technologies such as Symfony components, RESTful APIs, React.js widgets and MySQL optimizations. Performed unit and integration testing with PHPUnit, debugging with Xdebug, and maintained version control with Git/GitHub. Collaborated closely with designers, project managers and other developers using Agile methodologies and tools like Jira, Slack and Docker to ensure smooth deployments and detailed technical documentation."
+  },
+  {
+    "from": "2024",
+    "to": "2025",
+    "title": "Full-Stack Web Developer – Magento (CDD)",
+    "company": "UGGY",
+    "description": "Independently managed multiple internal web projects from design to deployment using Symfony (PHP 8), Magento 2 and Git. Migrated and optimized complex MySQL and SQL Server databases, including writing stored procedures and performance tuning. Implemented CI/CD pipelines with GitHub Actions and Docker for automated testing and deployments. Participated in technical committees to define architecture and security standards (OWASP), wrote functional and technical specifications, and coordinated with cross-functional teams (Jira, Slack, Teams) to ensure timely delivery and quality."
+  }
+]
