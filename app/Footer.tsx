@@ -37,8 +37,10 @@ const Footer = ({data}: { data: HeroSection }) => {
           </div>
 
         </div>
+        <div>
+        </div>
         <div className="flex sm:gap-5 gap-3 capitalize">
-          <ContactIcons socialMedia={data.social_media as SocialMedia}/>
+          <iframe style={{"height": "2.5rem"}} src="https://lottie.host/embed/73ad6210-315d-4370-b396-1d446b08f124/dwdIV0iBl5.lottie"></iframe>          
         </div>
       </div>
   )

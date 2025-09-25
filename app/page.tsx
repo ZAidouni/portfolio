@@ -3,6 +3,7 @@ import SeparatorBar from "@/app/SeparatorBar";
 import hero_section from "@/change_data/hero_section.json";
 import AboutMe from "@/app/AboutMe";
 import MySkills from "@/app/MySkills";
+import Hireme from "@/app/hireme";
 import MyProjects from "@/app/MyProjects";
 import ContactSection from "@/app/ContactSection";
 import Footer from "@/app/Footer";
@@ -20,6 +21,7 @@ export default function Home() {
                 <MySkills data={hero_section}/>
                 <MyProjects/>
                 <ContactSection/>
+                <Hireme data={hero_section}/>
             </div>
             <Footer data={hero_section}/>
         </main>

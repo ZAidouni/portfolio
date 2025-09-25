@@ -21,7 +21,7 @@ const SeparatorBar = ({data}: { data: HeroSection }) => {
               <div className="uppercase w-60 border-l ml-3 sm:ml-0 text-muted-foreground pl-3">applications fully implemented</div>
             </div>
             <div className="sm:flex grid grid-cols-4 gap-3">
-              <p className="font-bold text-5xl ">{data.tickets_completed_count}</p>
+              <p className="font-bold text-5xl ">{data.tickets_completed_count} <span>+</span></p>
               <div className="uppercase w-60 border-l ml-3 sm:ml-0 text-muted-foreground pl-3">Jira tickets completed during my recent experiences</div>
             </div>
           </div>

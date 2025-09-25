@@ -38,7 +38,7 @@ const Navbar = () => {
                   </div>
               ))}
             </div>
-            <Button onClick={() => scrollToSection('hire_me')}
+            <Button onClick={() => scrollToSection('hireme')}
                     className="lg:-ml-[12rem] flex gap-2 items-center justify-center shadow-xl shadow-primary/50 hover:shadow-primary transition-all duration-500 hover:translate-y-0.5"
                     variant="default">
               <PaperPlaneIcon/>Hire me

@@ -24,7 +24,6 @@ export async function POST(request: NextRequest) {
       pass: process.env.GMAIL_PASSWORD!,
     }
   });
-
   try {
     await transporter.sendMail({
       from: process.env.GMAIL_USERNAME,

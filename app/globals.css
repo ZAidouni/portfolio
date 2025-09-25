@@ -68,7 +68,7 @@
 
     .font-custom  {
         font-style: italic;
-        font-family: fantasy;
+        font-family: none;
     }
     .center{
       align-self: center;
@@ -77,5 +77,13 @@
      display: inline-flex;
     inline-size: fit-content !important;  
   justify-content : center; }
+  .display-content {
+    display: contents;
+  }
+  @media screen and (max-width: 768px) {
+    .video {
+      display: none !important;
+    }
+  }
 }
 

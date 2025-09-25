@@ -27,7 +27,7 @@ export default function RootLayout({children,}: Readonly<{
     <body className={inter.className}>
     <ThemeProvider
       attribute="class"
-      defaultTheme="dark"
+      defaultTheme="light"
       enableSystem
       disableTransitionOnChange
     >
